@@ -9,6 +9,9 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+gem "bootstrap-sass",  "3.4.1"
+gem "sassc-rails",     "2.1.2"
+
 # Use sqlite3 as the database for Active Record
 
 
